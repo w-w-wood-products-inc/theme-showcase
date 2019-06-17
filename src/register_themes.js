@@ -1,10 +1,13 @@
 import { ThemeManager } from '@mozaik/ui'
 
 import {
-    testGreen
-
+    nightGreen,
+    sunsetTheme,
+    woodTheme
 
 } from 'mozaik-themes-extra'
 
-ThemeManager.add(testGreen)
-ThemeManager.defaultTheme = testGreen.name
+ThemeManager.add(nightGreen)
+ThemeManager.add(sunsetTheme)
+ThemeManager.add(woodTheme)
+ThemeManager.defaultTheme = woodTheme.name
