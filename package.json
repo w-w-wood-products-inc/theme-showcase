@@ -23,7 +23,7 @@
     "@mozaik/ext-travis": "^2.0.0-rc.0",
     "@mozaik/server": "^2.0.0-alpha.4",
     "@mozaik/ui": "^2.0.0-alpha.15",
-    "mozaik-themes-extra": "^0.0.1-Alpha-13",
+    "mozaik-themes-extra": "^0.0.1-Alpha-17",
     "nivo": "^0.15.0",
     "react": "^16.7.0",
     "react-dom": "^16.7.0"
