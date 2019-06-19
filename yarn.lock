@@ -5970,10 +5970,10 @@ moment@2.22.2:
   resolved "https://registry.yarnpkg.com/moment/-/moment-2.24.0.tgz#0d055d53f5052aa653c9f6eb68bb5d12bf5c2b5b"
   integrity sha512-bV7f+6l2QigeBBZSM/6yTNq4P2fNpSWj/0e7jQcy87A8e7o2nAfP/34/2ky5Vw4B9S446EtIhodAzkFCcR4dQg==
 
-mozaik-themes-extra@^0.0.1-Alpha-20:
-  version "0.0.1-Alpha-20"
-  resolved "http://npm.wwinc.com/mozaik-themes-extra/-/mozaik-themes-extra-0.0.1-Alpha-20.tgz#fe96275ef9e88b05a038873b621537dcbe108a1a"
-  integrity sha512-oWvCWOTM9jq8MbkKkZvKKl+uTRp0oPgpFXp4nR0SCdxDATDCFtbIHsu624Y80NmoxRhwZP4x1V/o3+O34xsEuw==
+mozaik-themes-extra@^0.0.1-Alpha-22:
+  version "0.0.1-Alpha-22"
+  resolved "http://npm.wwinc.com/mozaik-themes-extra/-/mozaik-themes-extra-0.0.1-Alpha-22.tgz#acc75f5707158c256b109c93bd38746c885087df"
+  integrity sha512-eD3rJghOMID+jtBY2qzpMzmOVgPo3d+uvmmgSS714eas4SDjSyRjZSaLb2LtkPSQIY593oOiOZpchVKwvBC02g==
 
 ms@2.0.0:
   version "2.0.0"
