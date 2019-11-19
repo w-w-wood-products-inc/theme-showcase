@@ -29,7 +29,8 @@
     "mozaik-themes-extra": "^0.0.1-Alpha-5",
     "nivo": "^0.15.0",
     "react": "^16.7.0",
-    "react-dom": "^16.7.0"
+    "react-dom": "^16.7.0",
+    "set-value": "^2.0.1"
   },
   "devDependencies": {
     "concurrently": "^4.1.0",
