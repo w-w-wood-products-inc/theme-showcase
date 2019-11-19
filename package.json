@@ -25,6 +25,7 @@
     "@mozaik/ui": "^2.0.0-alpha.15",
     "cryptiles": "^4.1.2",
     "eslint": "^4.18.2",
+    "hoek": "^4.2.1",
     "mozaik-themes-extra": "^0.0.1-Alpha-5",
     "nivo": "^0.15.0",
     "react": "^16.7.0",
